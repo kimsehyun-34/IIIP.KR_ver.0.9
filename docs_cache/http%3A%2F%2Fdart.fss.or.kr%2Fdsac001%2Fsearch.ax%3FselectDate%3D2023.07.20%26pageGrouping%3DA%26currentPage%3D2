@@ -1,0 +1,4992 @@
+
+
+
+
+
+
+
+
+
+
+<!--목록 -->
+<div class="tbTitle">
+ 	<h4>
+		
+			
+			
+			
+			
+	        
+	        
+			전체
+		
+		&nbsp;<span class="txtCB" id="txtCB">199</span>건
+		
+			
+				
+					
+					(2023년 07월 20일)
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		
+	</h4>
+	
+	<div class="sort" >
+		
+	    	
+			
+			
+		
+		
+			
+				<a id="time" name="sort" onclick="setOrder(this);" class="downOn" href="#none" data-order="desc" title="시간 내림차순">시간</a>
+				<a id="crp" name="sort"  onclick="setOrder(this);" class="upOff" href="#none" data-order="asc" title="회사명 올림차순">회사명</a>
+				<a id="rpt" name="sort"  onclick="setOrder(this);" class="upOff" href="#none" data-order="asc" title="보고서명 올림차순">보고서명</a>
+			
+			
+			
+			
+		
+	</div>
+</div>
+<div class="tbListInner" >
+	<table class="tbList" summary="시간,공시대상회사,보고서명,제출인,접수일자,비고 순으로 되어있습니다.">
+		<caption>유가증권시장 목록</caption>
+		<colgroup>
+			<col style="width:7%">
+			<col style="width:24%">
+			<col style="width:auto">
+			<col style="width:13%">
+			<col style="width:11%">
+			<col style="width:8%">
+		</colgroup>
+		<thead>
+			<tr>
+				<th scope="row"><label for="inpSample00">시간</label></th>
+				<th scope="row"><label for="inpSample00">공시대상회사</label></th>
+				<th scope="row"><label for="inpSample00">보고서명</label></th>
+				<th scope="row"><label for="inpSample00">제출인</label></th>
+				<th scope="row"><label for="inpSample00">접수일자</label></th>
+				<th scope="row"><label for="inpSample00">비고</label></th>
+			</tr>
+		</thead>
+		
+			
+				<tbody>
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								11:00
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000115"  onclick="openReportViewer('20230720000115'); return false;" id="r_20230720000115"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="엄재민">엄재민</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								11:00
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000114"  onclick="openReportViewer('20230720000114'); return false;" id="r_20230720000114"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이영진">이영진</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:59
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000112"  onclick="openReportViewer('20230720000112'); return false;" id="r_20230720000112"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="서기홍">서기홍</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000111"  onclick="openReportViewer('20230720000111'); return false;" id="r_20230720000111"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="김준호">김준호</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:56
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000109"  onclick="openReportViewer('20230720000109'); return false;" id="r_20230720000109"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이영준">이영준</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:55
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00363246', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="우원개발 기업개황 새창" >
+										우원개발
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720900108"  onclick="openReportViewer('20230720900108'); return false;" id="r_20230720900108"
+									title="단일판매ㆍ공급계약체결 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>단일판매ㆍ공급계약체결
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="우원개발">우원개발</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:55
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000108"  onclick="openReportViewer('20230720000108'); return false;" id="r_20230720000108"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="최찬기">최찬기</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:54
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('01234297', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미원에스씨 기업개황 새창" >
+										미원에스씨
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000105"  onclick="openReportViewer('20230720000105'); return false;" id="r_20230720000105"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="미원스페셜티케미칼 우리사주조합">미원스페셜티케미칼 우리사주조합</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:53
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000104"  onclick="openReportViewer('20230720000104'); return false;" id="r_20230720000104"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유용규">유용규</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:51
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000102"  onclick="openReportViewer('20230720000102'); return false;" id="r_20230720000102"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="김병균">김병균</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:50
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000100"  onclick="openReportViewer('20230720000100'); return false;" id="r_20230720000100"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="허석준">허석준</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:49
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000099"  onclick="openReportViewer('20230720000099'); return false;" id="r_20230720000099"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="임종택">임종택</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:49
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00450931', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="우양에이치씨 기업개황 새창" >
+										우양에이치씨
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230407002827"  onclick="openReportViewer('20230407002827'); return false;" id="r_20230407002827"
+									title="사업보고서 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 첨부서류가 추가되어 제출된 것임" class="txtCB">[첨부추가]</span>사업보고서
+									 (2022.12)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="우양에이치씨">우양에이치씨</td>
+							<td>2023.04.07</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:48
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000096"  onclick="openReportViewer('20230720000096'); return false;" id="r_20230720000096"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="윤진현">윤진현</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:47
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000095"  onclick="openReportViewer('20230720000095'); return false;" id="r_20230720000095"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="안치용">안치용</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:45
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01431696', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="맨펀드VI피엘씨 기업개황 새창" >
+										맨펀드VI피엘씨
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000061"  onclick="openReportViewer('20230720000061'); return false;" id="r_20230720000061"
+									title="투자설명서(집합투자증권)(맨펀드VI피엘씨) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(맨펀드VI피엘씨)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="맨펀드VI피엘씨">맨펀드VI피엘씨</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:45
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000093"  onclick="openReportViewer('20230720000093'); return false;" id="r_20230720000093"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="김영술">김영술</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:45
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000092"  onclick="openReportViewer('20230720000092'); return false;" id="r_20230720000092"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="김영진">김영진</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:43
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000090"  onclick="openReportViewer('20230720000090'); return false;" id="r_20230720000090"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="서창석">서창석</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:43
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00149594', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한국캐피탈 기업개황 새창" >
+										한국캐피탈
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720900096"  onclick="openReportViewer('20230720900096'); return false;" id="r_20230720900096"
+									title="임시주주총회결과 공시뷰어 새창" >임시주주총회결과
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한국캐피탈">한국캐피탈</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:42
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000088"  onclick="openReportViewer('20230720000088'); return false;" id="r_20230720000088"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="박순하">박순하</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:41
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01291317', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="더블유씨피 기업개황 새창" >
+										더블유씨피
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720900111"  onclick="openReportViewer('20230720900111'); return false;" id="r_20230720900111"
+									title="기업설명회(IR)개최 공시뷰어 새창" >기업설명회(IR)개최
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="더블유씨피">더블유씨피</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:40
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000087"  onclick="openReportViewer('20230720000087'); return false;" id="r_20230720000087"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="박병삼">박병삼</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:40
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00488402', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="서울바이오시스 기업개황 새창" >
+										서울바이오시스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000086"  onclick="openReportViewer('20230720000086'); return false;" id="r_20230720000086"
+									title="사업보고서 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>사업보고서
+									 (2022.12)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="서울바이오시스">서울바이오시스</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_yeon_other" title="본 보고서는 연결부분을 포함한 것임" style="cursor:default">연</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:38
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000084"  onclick="openReportViewer('20230720000084'); return false;" id="r_20230720000084"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이종식">이종식</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:38
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00363246', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="우원개발 기업개황 새창" >
+										우원개발
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720900113"  onclick="openReportViewer('20230720900113'); return false;" id="r_20230720900113"
+									title="타인에대한담보제공결정 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>타인에대한담보제공결정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="우원개발">우원개발</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:37
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000082"  onclick="openReportViewer('20230720000082'); return false;" id="r_20230720000082"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="구재형">구재형</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:35
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000079"  onclick="openReportViewer('20230720000079'); return false;" id="r_20230720000079"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="김영식">김영식</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:34
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000077"  onclick="openReportViewer('20230720000077'); return false;" id="r_20230720000077"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신현옥">신현옥</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:32
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000075"  onclick="openReportViewer('20230720000075'); return false;" id="r_20230720000075"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이공환">이공환</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:28
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01020843', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="원익피앤이 기업개황 새창" >
+										원익피앤이
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000071"  onclick="openReportViewer('20230720000071'); return false;" id="r_20230720000071"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="원익홀딩스">원익홀딩스</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:28
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000070"  onclick="openReportViewer('20230720000070'); return false;" id="r_20230720000070"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신수정">신수정</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:27
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('01323032', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이카 기업개황 새창" >
+										케이카
+									</a>
+								</span>
+								<a href="http://kcar.irpage.co.kr" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800100"  onclick="openReportViewer('20230720800100'); return false;" id="r_20230720800100"
+									title="기업설명회(IR)개최(안내공시) 공시뷰어 새창" >기업설명회(IR)개최(안내공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="케이카">케이카</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:26
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01020843', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="원익피앤이 기업개황 새창" >
+										원익피앤이
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000069"  onclick="openReportViewer('20230720000069'); return false;" id="r_20230720000069"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이기채">이기채</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:22
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00148610', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한화투자증권 기업개황 새창" >
+										한화투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000066"  onclick="openReportViewer('20230720000066'); return false;" id="r_20230720000066"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한화투자증권">한화투자증권</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:21
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000064"  onclick="openReportViewer('20230720000064'); return false;" id="r_20230720000064"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="박종욱">박종욱</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:14
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000058"  onclick="openReportViewer('20230720000058'); return false;" id="r_20230720000058"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="강국현">강국현</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:14
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00138279', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="S-Oil 기업개황 새창" >
+										S-Oil
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800094"  onclick="openReportViewer('20230720800094'); return false;" id="r_20230720800094"
+									title="기업설명회(IR)개최(안내공시) 공시뷰어 새창" >기업설명회(IR)개최(안내공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="S-Oil">S-Oil</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:13
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01327746', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="보로노이 기업개황 새창" >
+										보로노이
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000054"  onclick="openReportViewer('20230720000054'); return false;" id="r_20230720000054"
+									title="주요사항보고서(유무상증자결정) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>주요사항보고서(유무상증자결정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="보로노이">보로노이</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01327746', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="보로노이 기업개황 새창" >
+										보로노이
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720900062"  onclick="openReportViewer('20230720900062'); return false;" id="r_20230720900062"
+									title="유상증자1차발행가액결정 공시뷰어 새창" >유상증자1차발행가액결정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="보로노이">보로노이</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00145136', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="유한킴벌리 기업개황 새창" >
+										유한킴벌리
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000053"  onclick="openReportViewer('20230720000053'); return false;" id="r_20230720000053"
+									title="감사보고서 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 첨부내용이 변경되어 제출된 것임" class="txtCB">[첨부정정]</span>감사보고서
+									 (2022.12)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="안진회계법인">안진회계법인</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:59
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000046"  onclick="openReportViewer('20230720000046'); return false;" id="r_20230720000046"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="박용만">박용만</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00121932', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미원상사 기업개황 새창" >
+										미원상사
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800089"  onclick="openReportViewer('20230720800089'); return false;" id="r_20230720800089"
+									title="최대주주등소유주식변동신고서 공시뷰어 새창" >최대주주등소유주식변동신고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="미원상사">미원상사</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:54
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000043"  onclick="openReportViewer('20230720000043'); return false;" id="r_20230720000043"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="권희근">권희근</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:52
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000042"  onclick="openReportViewer('20230720000042'); return false;" id="r_20230720000042"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="권오륭">권오륭</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:52
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00120182', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="NH투자증권 기업개황 새창" >
+										NH투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800084"  onclick="openReportViewer('20230720800084'); return false;" id="r_20230720800084"
+									title="최대주주등소유주식변동신고서 공시뷰어 새창" >최대주주등소유주식변동신고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="NH투자증권">NH투자증권</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:51
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00261285', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한국가스공사 기업개황 새창" >
+										한국가스공사
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000041"  onclick="openReportViewer('20230720000041'); return false;" id="r_20230720000041"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="김환용">김환용</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:50
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000039"  onclick="openReportViewer('20230720000039'); return false;" id="r_20230720000039"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="안창용">안창용</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:48
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01714377', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="다원물산 기업개황 새창" >
+										다원물산
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000037"  onclick="openReportViewer('20230720000037'); return false;" id="r_20230720000037"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2023.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="안경회계법인">안경회계법인</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:47
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000036"  onclick="openReportViewer('20230720000036'); return false;" id="r_20230720000036"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="우정민">우정민</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:42
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00409681', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="아스트 기업개황 새창" >
+										아스트
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720700070"  onclick="openReportViewer('20230720700070'); return false;" id="r_20230720700070"
+									title="상장채권원리금미지급 공시뷰어 새창" >상장채권원리금미지급
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="아스트">아스트</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_chae_other" title="본 문서는 한국거래소 채권상장법인 공시사항임" style="cursor:default">채</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:38
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01559442', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="선남대방씨씨 기업개황 새창" >
+										선남대방씨씨
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000034"  onclick="openReportViewer('20230720000034'); return false;" id="r_20230720000034"
+									title="특수관계인으로부터자금차입 공시뷰어 새창" >특수관계인으로부터자금차입
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="선남대방씨씨">선남대방씨씨</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:37
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01020092', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="대방주택 기업개황 새창" >
+										대방주택
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000033"  onclick="openReportViewer('20230720000033'); return false;" id="r_20230720000033"
+									title="특수관계인으로부터자금차입 공시뷰어 새창" >특수관계인으로부터자금차입
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="대방주택">대방주택</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:36
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01559567', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="디아이건설 기업개황 새창" >
+										디아이건설
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000032"  onclick="openReportViewer('20230720000032'); return false;" id="r_20230720000032"
+									title="특수관계인으로부터자금차입 공시뷰어 새창" >특수관계인으로부터자금차입
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="디아이건설">디아이건설</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:35
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01460634', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엘리움주택개발 기업개황 새창" >
+										엘리움주택개발
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000031"  onclick="openReportViewer('20230720000031'); return false;" id="r_20230720000031"
+									title="특수관계인에대한자금대여 공시뷰어 새창" >특수관계인에대한자금대여
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="엘리움주택개발">엘리움주택개발</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:32
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01528141', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엘에스머트리얼즈 기업개황 새창" >
+										엘에스머트리얼즈
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000030"  onclick="openReportViewer('20230720000030'); return false;" id="r_20230720000030"
+									title="주요주주의주식보유변동 공시뷰어 새창" >주요주주의주식보유변동
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="엘에스머트리얼즈">엘에스머트리얼즈</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+						
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00587466', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="KPX홀딩스 기업개황 새창" >
+										KPX홀딩스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800069"  onclick="openReportViewer('20230720800069'); return false;" id="r_20230720800069"
+									title="현금ㆍ현물배당결정 공시뷰어 새창" >현금ㆍ현물배당결정(자회사의 주요경영사항)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="KPX홀딩스">KPX홀딩스</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00767460', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="PI첨단소재 기업개황 새창" >
+										PI첨단소재
+									</a>
+								</span>
+								<a href="http://pimaterials.irpage.co.kr/" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800054"  onclick="openReportViewer('20230720800054'); return false;" id="r_20230720800054"
+									title="기업설명회(IR)개최(안내공시) 공시뷰어 새창" >기업설명회(IR)개최(안내공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="PI첨단소재">PI첨단소재</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:29
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00767460', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="PI첨단소재 기업개황 새창" >
+										PI첨단소재
+									</a>
+								</span>
+								<a href="http://pimaterials.irpage.co.kr/" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800056"  onclick="openReportViewer('20230720800056'); return false;" id="r_20230720800056"
+									title="기업설명회(IR)개최(안내공시) 공시뷰어 새창" >기업설명회(IR)개최(안내공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="PI첨단소재">PI첨단소재</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:28
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00605124', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="알파홀딩스 기업개황 새창" >
+										알파홀딩스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000028"  onclick="openReportViewer('20230720000028'); return false;" id="r_20230720000028"
+									title="분기보고서 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>분기보고서
+									 (2023.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="알파홀딩스">알파홀딩스</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:26
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00646732', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="진양홀딩스 기업개황 새창" >
+										진양홀딩스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800068"  onclick="openReportViewer('20230720800068'); return false;" id="r_20230720800068"
+									title="현금ㆍ현물배당결정 공시뷰어 새창" >현금ㆍ현물배당결정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="진양홀딩스">진양홀딩스</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:24
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00137207', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="유니켐 기업개황 새창" >
+										유니켐
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800067"  onclick="openReportViewer('20230720800067'); return false;" id="r_20230720800067"
+									title="소송등의판결ㆍ결정 공시뷰어 새창" >소송등의판결ㆍ결정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유니켐">유니켐</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:20
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00190321', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이티 기업개황 새창" >
+										케이티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000025"  onclick="openReportViewer('20230720000025'); return false;" id="r_20230720000025"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이상호">이상호</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:20
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('01568413', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="F&F 기업개황 새창" >
+										F&F
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800053"  onclick="openReportViewer('20230720800053'); return false;" id="r_20230720800053"
+									title="결산실적공시예고(안내공시) 공시뷰어 새창" >결산실적공시예고(안내공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="F&F">F&F</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:19
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00605124', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="알파홀딩스 기업개황 새창" >
+										알파홀딩스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000024"  onclick="openReportViewer('20230720000024'); return false;" id="r_20230720000024"
+									title="사업보고서 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>사업보고서
+									 (2022.12)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="알파홀딩스">알파홀딩스</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_yeon_other" title="본 보고서는 연결부분을 포함한 것임" style="cursor:default">연</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:10
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00132202', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="선진뷰티사이언스 기업개황 새창" >
+										선진뷰티사이언스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000020"  onclick="openReportViewer('20230720000020'); return false;" id="r_20230720000020"
+									title="분기보고서 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>분기보고서
+									 (2023.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="선진뷰티사이언스">선진뷰티사이언스</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:09
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00352499', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="링네트 기업개황 새창" >
+										링네트
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000018"  onclick="openReportViewer('20230720000018'); return false;" id="r_20230720000018"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이주석">이주석</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:07
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00352499', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="링네트 기업개황 새창" >
+										링네트
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000016"  onclick="openReportViewer('20230720000016'); return false;" id="r_20230720000016"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이주석">이주석</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:41
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00796231', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="농가온 기업개황 새창" >
+										농가온
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720000002"  onclick="openReportViewer('20230720000002'); return false;" id="r_20230720000002"
+									title="동일인등출자계열회사와의상품ㆍ용역거래변경 공시뷰어 새창" >동일인등출자계열회사와의상품ㆍ용역거래변경
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="농가온">농가온</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:23
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('01394377', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이지스밸류플러스리츠 기업개황 새창" >
+										이지스밸류플러스리츠
+									</a>
+								</span>
+								<a href="http://www.igisvaluereit.com" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800026"  onclick="openReportViewer('20230720800026'); return false;" id="r_20230720800026"
+									title="유상증자신주발행가액(안내공시) 공시뷰어 새창" >유상증자신주발행가액(안내공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이지스밸류플러스리츠">이지스밸류플러스리츠</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:18
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00164742', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="현대자동차 기업개황 새창" >
+										현대자동차
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800031"  onclick="openReportViewer('20230720800031'); return false;" id="r_20230720800031"
+									title="기업설명회(IR)개최(안내공시) 공시뷰어 새창" >기업설명회(IR)개최(안내공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="현대자동차">현대자동차</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:51
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00145862', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="인천도시가스 기업개황 새창" >
+										인천도시가스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230720800002"  onclick="openReportViewer('20230720800002'); return false;" id="r_20230720800002"
+									title="단일판매ㆍ공급계약체결 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>단일판매ㆍ공급계약체결
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="인천도시가스">인천도시가스</td>
+							<td>2023.07.20</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241388', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="디비자산운용 기업개황 새창" >
+										디비자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100019"  onclick="openReportViewer('20230719100019'); return false;" id="r_20230719100019"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241388', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="디비자산운용 기업개황 새창" >
+										디비자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100018"  onclick="openReportViewer('20230719100018'); return false;" id="r_20230719100018"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241388', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="디비자산운용 기업개황 새창" >
+										디비자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100017"  onclick="openReportViewer('20230719100017'); return false;" id="r_20230719100017"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241388', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="디비자산운용 기업개황 새창" >
+										디비자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100016"  onclick="openReportViewer('20230719100016'); return false;" id="r_20230719100016"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01431696', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="맨펀드VI피엘씨 기업개황 새창" >
+										맨펀드VI피엘씨
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100006"  onclick="openReportViewer('20230719100006'); return false;" id="r_20230719100006"
+									title="효력발생안내( 2023.7.18. 제출 일괄신고서(집합투자증권-회사형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.18. 제출 일괄신고서(집합투자증권-회사형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00259776', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미래에셋자산운용 기업개황 새창" >
+										미래에셋자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100010"  onclick="openReportViewer('20230719100010'); return false;" id="r_20230719100010"
+									title="효력발생안내( 2023.7.18. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.18. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01327746', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="보로노이 기업개황 새창" >
+										보로노이
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230705100005"  onclick="openReportViewer('20230705100005'); return false;" id="r_20230705100005"
+									title="효력발생안내( 2023.7.5. 제출 증권신고서(지분증권) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.5. 제출 증권신고서(지분증권) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00697718', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="얼라이언스번스틴자산운용 기업개황 새창" >
+										얼라이언스번스틴자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100015"  onclick="openReportViewer('20230719100015'); return false;" id="r_20230719100015"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00697718', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="얼라이언스번스틴자산운용 기업개황 새창" >
+										얼라이언스번스틴자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100014"  onclick="openReportViewer('20230719100014'); return false;" id="r_20230719100014"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00697718', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="얼라이언스번스틴자산운용 기업개황 새창" >
+										얼라이언스번스틴자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100013"  onclick="openReportViewer('20230719100013'); return false;" id="r_20230719100013"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00405463', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이치디씨자산운용 기업개황 새창" >
+										에이치디씨자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100012"  onclick="openReportViewer('20230719100012'); return false;" id="r_20230719100012"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00405463', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이치디씨자산운용 기업개황 새창" >
+										에이치디씨자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100011"  onclick="openReportViewer('20230719100011'); return false;" id="r_20230719100011"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100033"  onclick="openReportViewer('20230719100033'); return false;" id="r_20230719100033"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100032"  onclick="openReportViewer('20230719100032'); return false;" id="r_20230719100032"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100031"  onclick="openReportViewer('20230719100031'); return false;" id="r_20230719100031"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100030"  onclick="openReportViewer('20230719100030'); return false;" id="r_20230719100030"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100029"  onclick="openReportViewer('20230719100029'); return false;" id="r_20230719100029"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100028"  onclick="openReportViewer('20230719100028'); return false;" id="r_20230719100028"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100027"  onclick="openReportViewer('20230719100027'); return false;" id="r_20230719100027"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100026"  onclick="openReportViewer('20230719100026'); return false;" id="r_20230719100026"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100025"  onclick="openReportViewer('20230719100025'); return false;" id="r_20230719100025"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100024"  onclick="openReportViewer('20230719100024'); return false;" id="r_20230719100024"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100023"  onclick="openReportViewer('20230719100023'); return false;" id="r_20230719100023"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100022"  onclick="openReportViewer('20230719100022'); return false;" id="r_20230719100022"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100021"  onclick="openReportViewer('20230719100021'); return false;" id="r_20230719100021"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00453804', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아문디자산운용 기업개황 새창" >
+										엔에이치아문디자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230719100020"  onclick="openReportViewer('20230719100020'); return false;" id="r_20230719100020"
+									title="효력발생안내( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.7.13. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01497142', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엠아이큐브솔루션 기업개황 새창" >
+										엠아이큐브솔루션
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20230628100015"  onclick="openReportViewer('20230628100015'); return false;" id="r_20230628100015"
+									title="효력발생안내( 2023.6.28. 제출 증권신고서(지분증권) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2023.6.28. 제출 증권신고서(지분증권) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2023.07.20</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+				</tbody>
+			
+			
+		
+		<input type="hidden" name="totalCnt" id="totalCnt" value="199">
+	</table>
+</div>
+
+	<div class = "psWrap">
+		<div class="pageInfo">[2/2] [총 199건]</div>
+		
+		<div class="pageSkip">
+			<ul>
+				<li><a href="javascript:search(1);">1</a></li><li class="on"><a onClick="javascript:void(0);">2</a></li>
+
+			</ul>
+		</div>
+	</div>
+
