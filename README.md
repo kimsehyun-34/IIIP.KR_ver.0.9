@@ -3,4 +3,4 @@ Integrated Investment Information Program.KR
 
 -------
 ## 출력
-![image](https://github.com/FURY312/IIIP.KR_ver.0.9/assets/79848348/490134a4-ee4a-4125-bc05-32393427aa55)
+![스크린샷_2023-07-21_163537](https://github.com/FURY312/IIIP.KR_ver.0.9/assets/79848348/46c613c2-b5f5-4692-aef8-47ad63d52849)
